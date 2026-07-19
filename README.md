@@ -92,7 +92,7 @@ Before starting, make sure you have:
 ### 10. Invoke from Code
 
 1. Clone the starter repository:
-   `https://github.com/MicrosoftLearning/mslearn-ai-agents.git`
+   '(https://github.com/jerryyangy/build-workflow-in-msfoundry.git)`
 2. Open the lab folder for exercise 06.
 3. Copy the project endpoint from the Foundry code view.
 4. Install Python dependencies.
