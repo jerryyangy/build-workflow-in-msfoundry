@@ -89,6 +89,8 @@ Before starting, make sure you have:
 3. Enter a trigger message such as `Start processing support tickets.`
 4. Confirm that billing tickets are escalated and other tickets receive drafted responses. [page:1]
 
+![Demo Preview](https://github.com/jerryyangy/build-workflow-in-msfoundry/blob/main/Triage%20workflow%20demo.png)
+
 ### 10. Invoke from Code
 
 1. Clone the starter repository:
